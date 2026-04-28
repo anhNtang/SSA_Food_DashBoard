@@ -522,18 +522,8 @@ with tab5:
             3. Combine income support + food programs
         """)
 
-    st.divider(color="rainbow")
+    st.divider()
     st.markdown("""
         ### Impact:
         Targeting top 10% vulnerable counties could significantly reduce national food insecurity rates.
         """)
-    
-
-
-
-
-
-    
-   
-
-   
